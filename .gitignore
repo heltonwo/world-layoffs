@@ -1,0 +1,3 @@
+# Arquivos de banco de dados locais
+*.duckdb
+*.duckdb.*
