@@ -1,6 +1,6 @@
 -- ============================================================================
 -- 03_orchestrator.sql
--- RUNS THE PIPELINA FROM START TO END
+-- RUNS THE PIPELINE FROM START TO END
 -- RUN THROUGH TERMINAL
 -- COMMAND >>> duckdb world_layoffs.duckdb -c ".read 02-sqlduckdb/03_orchestrator.sql"
 -- =============================================================
